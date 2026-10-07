@@ -1,0 +1,16 @@
+name: Check resource links
+on:
+  schedule:
+    - cron: "0 14 1 * *" # 1st of each month
+  workflow_dispatch:
+  pull_request:
+    paths: ["src/data/resources.json"]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm run check
+      - run: npm run links

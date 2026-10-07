@@ -1,0 +1,20 @@
+{
+  "name": "harmreduction-nyc",
+  "private": true,
+  "type": "module",
+  "description": "NYC harm reduction resource directory (harmreductionnyc.com)",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "build": "node src/build.ts",
+    "check": "node src/build.ts --check",
+    "links": "node scripts/check-links.ts",
+    "dev": "node src/build.ts && npx --yes serve dist",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.0"
+  }
+}

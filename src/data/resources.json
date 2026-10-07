@@ -1,0 +1,1692 @@
+[
+  {
+    "name": "BOOM!Health Harm Reduction Center",
+    "category": "syringe-services",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "South Bronx harm reduction center offering anonymous syringe access, naloxone, and health services, plus mobile vans and peer-delivered syringe exchange.",
+    "url": "https://www.boomhealth.org",
+    "phone": "718-295-2666",
+    "address": "226 East 144th Street, Bronx, NY 10451",
+    "services": [
+      "syringes",
+      "naloxone",
+      "drop-in",
+      "mobile van",
+      "HIV testing",
+      "HCV",
+      "drug checking"
+    ],
+    "verified_from": "https://www.boomhealth.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Website lists 718.295.BOOM; NYS SSP directory (July 2026) lists 718-292-7718 x6474 for the program. NYS lists storefront hours Mon-Fri 9am-10pm, Sat 9am-3pm. NYC drug checking on 1st Thursdays."
+  },
+  {
+    "name": "Bronx Móvil",
+    "category": "syringe-services",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "Mobile harm reduction and syringe service program in the Bronx.",
+    "url": "https://www.bronxmovil.org",
+    "phone": "917-200-0358",
+    "address": null,
+    "services": [
+      "syringes",
+      "naloxone",
+      "mobile van"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Listed in NYS SSP directory (July 2026), which points to the website for schedule; website failed TLS check in this session (certificate mismatch) so could not be confirmed directly. 2022 NYC guide noted mobile/weekend only."
+  },
+  {
+    "name": "St. Ann's Corner of Harm Reduction (SACHR)",
+    "category": "syringe-services",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "Bronx harm reduction storefront offering syringe services, outreach, HIV prevention and a welcoming space for people who use drugs, at no cost.",
+    "url": "https://www.sachr.org",
+    "phone": "718-585-5544",
+    "address": "886 Westchester Avenue, Bronx, NY 10459",
+    "services": [
+      "syringes",
+      "naloxone",
+      "drop-in",
+      "outreach",
+      "HIV testing",
+      "Spanish"
+    ],
+    "verified_from": "https://www.sachr.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS SSP directory lists hours Mon-Fri 6am-12am (ground floor storefront)."
+  },
+  {
+    "name": "The After Hours Project",
+    "category": "syringe-services",
+    "boroughs": [
+      "Brooklyn",
+      "Queens"
+    ],
+    "description": "Brooklyn-based harm reduction org offering syringe services, overdose prevention, mobile outreach, HIV testing, and housing help.",
+    "url": "https://www.afterhoursproject.org",
+    "phone": "718-249-0755",
+    "address": "1204 Broadway, Brooklyn, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "mobile van",
+      "HIV testing",
+      "case management",
+      "housing"
+    ],
+    "verified_from": "https://www.afterhoursproject.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS SSP directory lists Mon-Fri 9am-5pm at 1204 Broadway (Bed-Stuy) plus other Brooklyn sites."
+  },
+  {
+    "name": "Family Services Network of New York (FSNNY)",
+    "category": "syringe-services",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Brooklyn syringe service program with multiple sites in Bushwick and East New York, including 24/7 access at some locations.",
+    "url": "https://www.fsnny1.org",
+    "phone": "347-770-9911",
+    "address": "1420 Bushwick Avenue, Brooklyn, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "24/7"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Confirmed in NYS SSP directory (July 2026); also lists 1721 Pitkin Ave (East New York). Website failed TLS check in this session; confirm before printing."
+  },
+  {
+    "name": "VOCAL-NY Harm Reduction Drop-In",
+    "category": "syringe-services",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Member-led advocacy org with a Brooklyn drop-in offering syringe exchange, overdose prevention, drug checking, and a 24/7 harm reduction vending machine.",
+    "url": "https://www.vocal-ny.org",
+    "phone": "718-802-9540",
+    "address": "300 Douglass Street, Brooklyn, NY 11217",
+    "services": [
+      "syringes",
+      "naloxone",
+      "drop-in",
+      "drug checking",
+      "vending machine",
+      "24/7",
+      "advocacy"
+    ],
+    "verified_from": "https://www.vocal-ny.org/company/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS directory: drop-in Mon-Fri 10:30am-5:30pm; 24/7 vending machine at 2640 Pitkin Ave, Brooklyn; van in Coney Island/Brighton Beach Thursdays. NYC drug checking Wednesdays."
+  },
+  {
+    "name": "Alliance for Positive Change – Lower East Side Harm Reduction Center",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Lower East Side storefront harm reduction center offering syringe services, naloxone, HIV/HCV testing, and peer support.",
+    "url": "https://alliance.nyc",
+    "phone": "212-645-0875",
+    "address": "35 East Broadway, New York, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "drop-in",
+      "HIV testing",
+      "HCV",
+      "outreach"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "The Lower East Side Harm Reduction Center now operates as part of Alliance for Positive Change (listed as 'Alliance Lower East Side Harm Reduction Center' in NYS directory, July 2026). NYS hours: Mon 9am-7pm, Tue-Sat 9am-5pm. Alliance HQ is 64 W 35th St."
+  },
+  {
+    "name": "AIDS Center of Queens County (ACQC)",
+    "category": "syringe-services",
+    "boroughs": [
+      "Queens"
+    ],
+    "description": "Queens HIV and harm reduction provider offering low-threshold syringe exchange, including a 24/7 vending machine in Far Rockaway.",
+    "url": "https://www.acqc.org",
+    "phone": "718-896-2500",
+    "address": null,
+    "services": [
+      "syringes",
+      "naloxone",
+      "mobile van",
+      "vending machine",
+      "24/7",
+      "HIV testing"
+    ],
+    "verified_from": "https://www.acqc.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Website lists sites at 91-30 Van Wyck Expwy (Richmond Hill-Jamaica), 62-07 Woodside Ave, and 105-20 Rockaway Beach Blvd. NYS directory (July 2026) lists SSP main site as 147-23 Archer Ave, Jamaica (van, Mon & Thu 11am-3pm) with SSP phone 917-670-5687, and a 24/7 vending machine at 1600 Central Ave, Far Rockaway. Addresses differ between sources; confirm."
+  },
+  {
+    "name": "Community Health Action of Staten Island (CHASI) – Harm Reduction Hub",
+    "category": "syringe-services",
+    "boroughs": [
+      "Staten Island"
+    ],
+    "description": "Staten Island's harm reduction hub offering syringe services, naloxone, and health and recovery support, with a 24/7 recovery center.",
+    "url": "https://chasiny.org",
+    "phone": "718-808-1300",
+    "address": "166 Port Richmond Avenue, Staten Island, NY 10302",
+    "services": [
+      "syringes",
+      "naloxone",
+      "drop-in",
+      "food",
+      "24/7",
+      "recovery"
+    ],
+    "verified_from": "https://chasiny.org/locations/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Hub open Mon-Fri 9am-5pm. Next Step Resource & Recovery Center at 56 Bay St (1st fl) is listed by NYS as a 24/7 SSP site. The 2022 NYC guide phone (718-808-1815) differs from the current main number."
+  },
+  {
+    "name": "Harlem United – Syringe Services",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan",
+      "Bronx"
+    ],
+    "description": "One of NYC's first syringe exchanges, with a Harlem storefront and a Bronx van offering syringes, naloxone and drug checking.",
+    "url": "https://www.harlemunited.org",
+    "phone": "212-289-2378",
+    "address": "321 West 125th Street, 2nd Floor, New York, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "mobile van",
+      "drug checking",
+      "HIV testing"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS hours: Mon-Fri 9:30am-3pm; Bronx van on Third Ave between E Tremont Ave & Cross-Bronx Expwy Mon/Thu/Fri. Main org line 844-464-2735; HQ 306 Malcolm X Blvd."
+  },
+  {
+    "name": "Housing Works – Brooklyn Harm Reduction (Pitkin Ave)",
+    "category": "syringe-services",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Housing Works syringe service site in East New York.",
+    "url": "https://www.housingworks.org",
+    "phone": "212-677-7999",
+    "address": "2640 Pitkin Avenue, Brooklyn, NY",
+    "services": [
+      "syringes",
+      "naloxone"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS directory: Tue & Thu 9am-5pm. Same address hosts VOCAL-NY's 24/7 vending machine."
+  },
+  {
+    "name": "Housing Works – Keith D. Cylar Community Health Center",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "East Village health center offering syringe services, primary care, and on-site drug checking.",
+    "url": "https://www.housingworks.org/locations/keith-d-cylar-community-health-center",
+    "phone": "212-677-7999",
+    "address": "743 East 9th Street, New York, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "drug checking",
+      "primary care",
+      "HIV testing",
+      "HCV"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/drug-checking.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS SSP hours Mon-Fri 9:30am-6pm. NYC drug checking Tuesdays (646-773-3678)."
+  },
+  {
+    "name": "Positive Health Project (Housing Works) – Ginny Shubert Center for Harm Reduction",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Midtown harm reduction program offering syringe exchange, overdose prevention, HIV/HCV testing, counseling, and meth harm reduction (ReCharge).",
+    "url": "https://www.housingworks.org/locations/positive-health-project",
+    "phone": "212-465-8304",
+    "address": "301 West 37th Street, New York, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "HIV testing",
+      "HCV",
+      "case management",
+      "stimulant harm reduction"
+    ],
+    "verified_from": "https://www.housingworks.org/locations/the-ginny-shubert-center-for-harm-reduction",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Positive Health Project is now part of Housing Works (website), though NYS still lists it as 'Positive Health Project, Inc.'. Floor differs (NYS: 2nd fl; Housing Works: 3rd fl). Housing Works lists Mon-Fri 9am-5pm; NYS lists Mon-Fri 10am-8pm, Sat 10am-6pm. Confirm hours."
+  },
+  {
+    "name": "Bellevue Hospital – Street Health Outreach",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Hospital-run mobile van offering syringe services and health outreach on the Lower East Side.",
+    "url": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "phone": "347-762-7632",
+    "address": "Delancey Street by Chrystie & Forsyth Streets, New York, NY",
+    "services": [
+      "syringes",
+      "naloxone",
+      "mobile van"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Only confirmed via NYS SSP directory (Mon-Fri 9am-5pm); no dedicated program webpage found."
+  },
+  {
+    "name": "EXPONENTS – Syringe Services Van",
+    "category": "syringe-services",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Recovery and HIV services org that runs a syringe services van in Bedford-Stuyvesant.",
+    "url": "https://exponents.org",
+    "phone": "212-243-3434",
+    "address": null,
+    "services": [
+      "syringes",
+      "naloxone",
+      "mobile van",
+      "HIV testing",
+      "HCV",
+      "recovery"
+    ],
+    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYS: Bed-Stuy van Mon 5-10pm, Tue & Thu 12-5pm. Org HQ: 17 Battery Place, 8th Fl, New York, NY 10004."
+  },
+  {
+    "name": "OnPoint NYC – East Harlem",
+    "category": "overdose-prevention",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Overdose prevention center and drop-in offering supervised consumption, syringes, drug checking, meals, showers, clinical care and case management.",
+    "url": "https://onpointnyc.org",
+    "phone": "212-828-8464",
+    "address": "104-106 East 126th Street, New York, NY 10035",
+    "services": [
+      "OPC",
+      "syringes",
+      "naloxone",
+      "drug checking",
+      "drop-in",
+      "showers",
+      "food",
+      "HIV testing",
+      "HCV",
+      "buprenorphine",
+      "case management"
+    ],
+    "verified_from": "https://onpointnyc.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "One of two sanctioned OPCs in the US/NYC. Hours vary by source (NYC DOHMH, NYS, and OnPoint site differ); confirm before printing. Drug checking Tuesdays."
+  },
+  {
+    "name": "OnPoint NYC – Washington Heights",
+    "category": "overdose-prevention",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Overdose prevention center and drop-in in Washington Heights with supervised consumption, drug checking, meals, showers and clinical care.",
+    "url": "https://onpointnyc.org",
+    "phone": "212-828-8464",
+    "address": "500 West 180th Street, New York, NY 10033",
+    "services": [
+      "OPC",
+      "syringes",
+      "naloxone",
+      "drug checking",
+      "drop-in",
+      "showers",
+      "food",
+      "HIV testing",
+      "HCV",
+      "buprenorphine",
+      "Spanish"
+    ],
+    "verified_from": "https://onpointnyc.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Formerly Washington Heights CORNER Project, which merged with NY Harm Reduction Educators in 2022 to form OnPoint NYC (onpointnyc.org/history). 2022 NYC guide phone 212-923-7600 is outdated. Drug checking Fridays."
+  },
+  {
+    "name": "Never Use Alone",
+    "category": "hotlines",
+    "boroughs": [
+      "National"
+    ],
+    "description": "Free, confidential peer-run hotline you can call while using; if you stop responding, EMS is sent to your location.",
+    "url": "https://neverusealone.com",
+    "phone": "800-484-3731",
+    "address": null,
+    "services": [
+      "24/7",
+      "hotline",
+      "overdose prevention"
+    ],
+    "verified_from": "https://neverusealone.com",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Alternate number 877-696-1996."
+  },
+  {
+    "name": "NYC Health Map – Free Naloxone Finder",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Search by ZIP code for free naloxone at pharmacies, community programs, and 24/7 public health vending machines.",
+    "url": "https://a816-health.nyc.gov/NYCHealthMap/ServiceCategory/DrugAlcoholServices",
+    "phone": null,
+    "address": null,
+    "services": [
+      "naloxone",
+      "vending machine",
+      "map"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/naloxone.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Can also call 311 to find naloxone."
+  },
+  {
+    "name": "NYC Health Department Free Online Overdose Prevention Training",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Free virtual naloxone trainings from the NYC Health Department; participants can get a naloxone kit mailed to them.",
+    "url": "https://www.nyc.gov/site/doh/health/health-topics/naloxone.page",
+    "phone": null,
+    "address": null,
+    "services": [
+      "naloxone",
+      "training",
+      "mail-based"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/naloxone.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Contact: naloxone@health.nyc.gov"
+  },
+  {
+    "name": "NYS Naloxone Co-payment Assistance Program (N-CAP)",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "Covers up to $40 of naloxone co-pays at participating pharmacies for people with prescription coverage.",
+    "url": "https://www.health.ny.gov/diseases/aids/general/opioid_overdose_prevention/",
+    "phone": null,
+    "address": null,
+    "services": [
+      "naloxone",
+      "pharmacy"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/naloxone.page",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Confirmed via NYC DOHMH naloxone page; NYS N-CAP page URL returned 404 in this session."
+  },
+  {
+    "name": "Harm Reduction Delivered (NYS OASAS)",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "Free naloxone, fentanyl test strips and xylazine test strips mailed discreetly to any New York State address.",
+    "url": "https://forms.ny.gov/s3/Harm-Reduction-Order-Form",
+    "phone": "765-628-8377",
+    "address": null,
+    "services": [
+      "naloxone",
+      "fentanyl test strips",
+      "xylazine test strips",
+      "mail-based"
+    ],
+    "verified_from": "https://oasas.ny.gov/node/20951",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Phone 765-MATTERS is for test strip orders. Delivery ~2 weeks."
+  },
+  {
+    "name": "NYC Health Department Drug Checking Program",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "Manhattan",
+      "Bronx",
+      "Brooklyn"
+    ],
+    "description": "Free drug checking: bring a small sample to a trained technician (or use a drop box) and get results plus harm reduction info.",
+    "url": "https://www.nyc.gov/site/doh/health/health-topics/drug-checking.page",
+    "phone": null,
+    "address": null,
+    "services": [
+      "drug checking",
+      "fentanyl test strips",
+      "xylazine"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/drug-checking.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Sites: OnPoint East Harlem (Tue), Housing Works Cylar House (Tue), VOCAL-NY (Wed), Harlem United Bronx van (1st & 3rd Thu), BOOM!Health (1st Thu), OnPoint Washington Heights (Fri). Phones by site: 929-697-1132, 646-773-3678, 646-499-0542."
+  },
+  {
+    "name": "NEXT Distro",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "National"
+    ],
+    "description": "Online and mail-based harm reduction service providing naloxone and supplies plus education for people who use drugs.",
+    "url": "https://nextdistro.org",
+    "phone": null,
+    "address": null,
+    "services": [
+      "naloxone",
+      "mail-based",
+      "education"
+    ],
+    "verified_from": "https://nextdistro.org",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Has a New York page (nextdistro.org/newyork) but its scope was unclear; for NYC residents NYS Harm Reduction Delivered is the primary mail option."
+  },
+  {
+    "name": "DanceSafe",
+    "category": "naloxone-drug-checking",
+    "boroughs": [
+      "National"
+    ],
+    "description": "Nightlife harm reduction nonprofit selling reagent drug checking kits and fentanyl/xylazine test strips, with event services.",
+    "url": "https://dancesafe.org",
+    "phone": null,
+    "address": null,
+    "services": [
+      "drug checking",
+      "fentanyl test strips",
+      "xylazine test strips",
+      "nightlife",
+      "mail-based"
+    ],
+    "verified_from": "https://dancesafe.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Kits are sold, not free. No dedicated NYC chapter page confirmed."
+  },
+  {
+    "name": "988 Suicide & Crisis Lifeline",
+    "category": "hotlines",
+    "boroughs": [
+      "National"
+    ],
+    "description": "Free 24/7 call, text or chat line for mental health, substance use, or suicidal crisis.",
+    "url": "https://988lifeline.org",
+    "phone": "988",
+    "address": null,
+    "services": [
+      "24/7",
+      "text",
+      "chat",
+      "Spanish",
+      "mental health"
+    ],
+    "verified_from": "https://988lifeline.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "NYC 988 (formerly NYC Well)",
+    "category": "hotlines",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "NYC's mental health and substance use support line, now reached by calling or texting 988 or chatting online.",
+    "url": "https://nycwell.cityofnewyork.us",
+    "phone": "988",
+    "address": null,
+    "services": [
+      "24/7",
+      "text",
+      "chat",
+      "Spanish",
+      "Chinese",
+      "mental health",
+      "substance use"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/about/press/pr2023/health-department-launches-988-campaign.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "NYC Well rebranded as NYC 988; the old NYC Well number was kept only one year for transition. Direct counseling in English, Spanish, Mandarin, Cantonese; interpreters for 200+ languages."
+  },
+  {
+    "name": "NYS OASAS HOPEline",
+    "category": "hotlines",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "Free, confidential 24/7 line for substance use and gambling support and treatment referrals.",
+    "url": "https://oasas.ny.gov/hopeline",
+    "phone": "877-846-7369",
+    "address": null,
+    "services": [
+      "24/7",
+      "text",
+      "Spanish",
+      "treatment referral"
+    ],
+    "verified_from": "https://oasas.ny.gov/hopeline",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Text HOPENY to 467369. Staff speak English, Spanish, Bengali, Chinese, Haitian Creole, Korean, Russian."
+  },
+  {
+    "name": "Trans Lifeline",
+    "category": "hotlines",
+    "boroughs": [
+      "National"
+    ],
+    "description": "Peer support hotline staffed by trans and nonbinary operators; does not call emergency services without consent.",
+    "url": "https://translifeline.org/hotline/",
+    "phone": "877-565-8860",
+    "address": null,
+    "services": [
+      "peer support",
+      "Spanish",
+      "trans"
+    ],
+    "verified_from": "https://translifeline.org/hotline/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Not 24/7: Mon-Fri 1pm-9pm Eastern."
+  },
+  {
+    "name": "Crisis Text Line",
+    "category": "hotlines",
+    "boroughs": [
+      "National"
+    ],
+    "description": "Text with a trained crisis counselor any time.",
+    "url": "https://www.crisistextline.org",
+    "phone": null,
+    "address": null,
+    "services": [
+      "24/7",
+      "text",
+      "Spanish"
+    ],
+    "verified_from": "https://www.crisistextline.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Text HOME to 741741 (HOLA for Spanish). Also WhatsApp."
+  },
+  {
+    "name": "The Trevor Project",
+    "category": "hotlines",
+    "boroughs": [
+      "National"
+    ],
+    "description": "24/7 crisis support for LGBTQ+ young people by phone, text, or chat.",
+    "url": "https://www.thetrevorproject.org/get-help/",
+    "phone": "866-488-7386",
+    "address": null,
+    "services": [
+      "24/7",
+      "text",
+      "chat",
+      "LGBTQ+",
+      "youth"
+    ],
+    "verified_from": "https://www.thetrevorproject.org/get-help/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Text START to 678-678."
+  },
+  {
+    "name": "Safe Horizon Hotline",
+    "category": "hotlines",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "24/7 hotline for survivors of domestic violence, sexual assault, and other crimes, with shelter help and translation.",
+    "url": "https://www.safehorizon.org/get-help/",
+    "phone": "800-621-4673",
+    "address": null,
+    "services": [
+      "24/7",
+      "chat",
+      "domestic violence",
+      "sexual assault"
+    ],
+    "verified_from": "https://www.safehorizon.org/get-help/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "NYC Anti-Violence Project (AVP) Hotline",
+    "category": "hotlines",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Hotline, counseling, and legal help for LGBTQ+ and HIV-affected survivors of violence.",
+    "url": "https://avp.org",
+    "phone": "212-714-1141",
+    "address": null,
+    "services": [
+      "LGBTQ+",
+      "Spanish",
+      "legal",
+      "counseling"
+    ],
+    "verified_from": "https://avp.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Not 24/7: Mon-Thu 10am-6pm, Fri 10am-2pm."
+  },
+  {
+    "name": "NYC 311",
+    "category": "hotlines",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "City info line to find naloxone, request homeless outreach for someone on the street, and get connected to city services.",
+    "url": "https://portal.311.nyc.gov",
+    "phone": "311",
+    "address": null,
+    "services": [
+      "24/7",
+      "outreach request",
+      "naloxone"
+    ],
+    "verified_from": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "NYS OASAS Find Addiction Treatment",
+    "category": "treatment",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "State search tool showing licensed substance use treatment programs, including methadone and buprenorphine, with availability.",
+    "url": "https://findaddictiontreatment.ny.gov/",
+    "phone": null,
+    "address": null,
+    "services": [
+      "treatment finder",
+      "methadone",
+      "buprenorphine"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/alcohol-and-drug-use-services.page",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Linked from NYC DOHMH page; the site blocked direct fetch in this session."
+  },
+  {
+    "name": "NYC Health + Hospitals Virtual Buprenorphine Clinic",
+    "category": "treatment",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Low-threshold telehealth clinic that can start and continue buprenorphine treatment by phone or video.",
+    "url": "https://www.nychealthandhospitals.org/virtual-buprenorphine-clinic",
+    "phone": "212-562-2665",
+    "address": null,
+    "services": [
+      "buprenorphine",
+      "telehealth",
+      "Spanish"
+    ],
+    "verified_from": "https://www.nychealthandhospitals.org/virtual-buprenorphine-clinic",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Hours and insurance rules not stated on page; call."
+  },
+  {
+    "name": "Mount Sinai REACH Program",
+    "category": "treatment",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Low-barrier primary care with office-based buprenorphine, HCV treatment, and harm reduction counseling, including for uninsured and undocumented patients.",
+    "url": "https://www.mountsinai.org/care/primary-care/upper-east-side/ima/reach",
+    "phone": "646-951-1693",
+    "address": "17 East 102nd Street, 7th Floor, New York, NY 10029",
+    "services": [
+      "buprenorphine",
+      "HCV",
+      "primary care",
+      "syringes",
+      "naloxone"
+    ],
+    "verified_from": "https://www.mountsinai.org/care/primary-care/upper-east-side/ima/reach",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Syringe services are in-house for REACH patients only (per NYS directory)."
+  },
+  {
+    "name": "VIP Community Services",
+    "category": "treatment",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "Bronx-based provider of opioid treatment (methadone), outpatient and residential care, with 24/7 admissions.",
+    "url": "https://www.vipservices.org",
+    "phone": "718-583-5150",
+    "address": null,
+    "services": [
+      "methadone",
+      "treatment",
+      "24/7",
+      "syringes"
+    ],
+    "verified_from": "https://www.vipservices.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Also listed as an SSP in the NYS directory ('please call')."
+  },
+  {
+    "name": "NYC Health Dept Chelsea Sexual Health Clinic",
+    "category": "sexual-health",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Free or low-cost walk-in sexual health care regardless of immigration status or insurance, including HIV/STI testing, PrEP, PEP and doxy-PEP.",
+    "url": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "phone": "347-396-7959",
+    "address": "303 9th Avenue, 1st Floor, New York, NY 10001",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "PrEP",
+      "PEP",
+      "doxy-PEP"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Express testing clinic also on site. Mon-Fri 8:30am-3:30pm (some evening hours). Hotline is shared across clinics."
+  },
+  {
+    "name": "NYC Health Dept Central Harlem Sexual Health Clinic",
+    "category": "sexual-health",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Free or low-cost walk-in sexual health care regardless of immigration status or insurance, including HIV/STI testing, PrEP, PEP and doxy-PEP.",
+    "url": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "phone": "347-396-7959",
+    "address": "2238 Fifth Avenue, 1st Floor, New York, NY 10037",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "PrEP",
+      "PEP",
+      "doxy-PEP",
+      "abortion pill"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Mon-Fri 8:30am-3:30pm (some evening hours). Hotline is shared across clinics."
+  },
+  {
+    "name": "NYC Health Dept Morrisania Sexual Health Clinic",
+    "category": "sexual-health",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "Free or low-cost walk-in sexual health care regardless of immigration status or insurance, including HIV/STI testing, PrEP, PEP and doxy-PEP.",
+    "url": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "phone": "347-396-7959",
+    "address": "1309 Fulton Avenue, 2nd Floor, Bronx, NY 10456",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "PrEP",
+      "PEP",
+      "doxy-PEP"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Mon-Fri 8:30am-3:30pm (some evening hours). Hotline is shared across clinics."
+  },
+  {
+    "name": "NYC Health Dept Fort Greene Sexual Health Clinic",
+    "category": "sexual-health",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Free or low-cost walk-in sexual health care regardless of immigration status or insurance, including HIV/STI testing, PrEP, PEP and doxy-PEP.",
+    "url": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "phone": "347-396-7959",
+    "address": "295 Flatbush Avenue Extension, Brooklyn, NY 11201",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "PrEP",
+      "PEP",
+      "doxy-PEP",
+      "abortion pill"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Express testing clinic also on site. Mon-Fri 8:30am-3:30pm (some evening hours). Hotline is shared across clinics."
+  },
+  {
+    "name": "NYC Health Dept Jamaica Sexual Health Clinic",
+    "category": "sexual-health",
+    "boroughs": [
+      "Queens"
+    ],
+    "description": "Free or low-cost walk-in sexual health care regardless of immigration status or insurance, including HIV/STI testing, PrEP, PEP and doxy-PEP.",
+    "url": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "phone": "347-396-7959",
+    "address": "90-37 Parsons Boulevard, 1st Floor, Jamaica, NY 11432",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "PrEP",
+      "PEP",
+      "doxy-PEP",
+      "abortion pill"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Mon-Fri 8:30am-3:30pm (some evening hours). Hotline is shared across clinics."
+  },
+  {
+    "name": "NYC Health Dept Corona Sexual Health Clinic",
+    "category": "sexual-health",
+    "boroughs": [
+      "Queens"
+    ],
+    "description": "Free or low-cost walk-in sexual health care regardless of immigration status or insurance, including HIV/STI testing, PrEP, PEP and doxy-PEP.",
+    "url": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "phone": "347-396-7959",
+    "address": "34-33 Junction Boulevard, 1st Floor, Corona, NY 11372",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "PrEP",
+      "PEP",
+      "doxy-PEP"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Mon-Fri 8:30am-3:30pm (some evening hours). Hotline is shared across clinics."
+  },
+  {
+    "name": "NYC 24/7 PEP Hotline",
+    "category": "sexual-health",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Call any time after a possible HIV exposure to get started on emergency PEP within 72 hours.",
+    "url": "https://www.nyc.gov/site/doh/health/health-topics/post-exposure-prophylaxis-pep.page",
+    "phone": "844-373-7692",
+    "address": null,
+    "services": [
+      "PEP",
+      "24/7",
+      "HIV"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/services/sexual-health-clinics.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Callen-Lorde Community Health Center",
+    "category": "sexual-health",
+    "boroughs": [
+      "Manhattan",
+      "Brooklyn",
+      "Bronx"
+    ],
+    "description": "LGBTQ+ community health center with primary care, PrEP/PEP, harm reduction, behavioral health and youth services on a sliding scale.",
+    "url": "https://callen-lorde.org",
+    "phone": "212-271-7200",
+    "address": null,
+    "services": [
+      "LGBTQ+",
+      "PrEP",
+      "PEP",
+      "HIV testing",
+      "primary care",
+      "sliding scale",
+      "youth"
+    ],
+    "verified_from": "https://callen-lorde.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Sites: 356 W 18th St (212-271-7200); 40 Flatbush Ave Ext, Brooklyn (718-215-1818); 3144 3rd Ave, Bronx (718-215-1800)."
+  },
+  {
+    "name": "GMHC",
+    "category": "sexual-health",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "HIV/AIDS service org offering free HIV/STI testing, meals, legal help, housing assistance and no-waitlist substance use support.",
+    "url": "https://www.gmhc.org",
+    "phone": "212-367-1000",
+    "address": "307 West 38th Street, 4th Floor, New York, NY 10018",
+    "services": [
+      "HIV testing",
+      "STI testing",
+      "food",
+      "legal",
+      "housing",
+      "substance use"
+    ],
+    "verified_from": "https://www.gmhc.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Mon-Fri 9:30am-4:30pm."
+  },
+  {
+    "name": "Hep Free NYC",
+    "category": "sexual-health",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Citywide hepatitis B and C coalition with a directory to find testing and care.",
+    "url": "https://www.hepfree.nyc",
+    "phone": null,
+    "address": null,
+    "services": [
+      "HCV",
+      "HBV",
+      "testing finder"
+    ],
+    "verified_from": "https://www.hepfree.nyc",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "NYS Hepatitis C Patient Assistance Program (HepCAP)",
+    "category": "sexual-health",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "Helps uninsured New York State residents get hepatitis C evaluation, treatment and monitoring.",
+    "url": "https://www.nyc.gov/site/doh/health/health-topics/hepatitis-c.page",
+    "phone": null,
+    "address": null,
+    "services": [
+      "HCV",
+      "uninsured"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/hepatitis-c.page",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Confirmed via NYC DOHMH hepatitis C page; NYS program page not fetched."
+  },
+  {
+    "name": "Mainchance Drop-In Center",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "City-contracted 24-hour drop-in center for adults experiencing street homelessness, with a place to rest, meals and connections to shelter.",
+    "url": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "phone": null,
+    "address": "120 East 32nd Street, New York, NY",
+    "services": [
+      "drop-in",
+      "24/7",
+      "shelter referral"
+    ],
+    "verified_from": "https://www.nyc.gov/assets/dhs/downloads/pdf/intake_drop_in_centers_flyer.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "From DHS pocket-guide flyer (undated); phone/hours not listed. Confirm via 311 before printing."
+  },
+  {
+    "name": "Olivieri Center Drop-In",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "City-contracted 24-hour drop-in center for adults experiencing street homelessness, with a place to rest, meals and connections to shelter.",
+    "url": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "phone": null,
+    "address": "257 West 30th Street, New York, NY",
+    "services": [
+      "drop-in",
+      "24/7",
+      "shelter referral"
+    ],
+    "verified_from": "https://www.nyc.gov/assets/dhs/downloads/pdf/intake_drop_in_centers_flyer.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "From DHS pocket-guide flyer (undated); phone/hours not listed. Confirm via 311 before printing."
+  },
+  {
+    "name": "The Living Room Drop-In Center",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "City-contracted 24-hour drop-in center for adults experiencing street homelessness, with a place to rest, meals and connections to shelter.",
+    "url": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "phone": null,
+    "address": "800 Barretto Street, Bronx, NY",
+    "services": [
+      "drop-in",
+      "24/7",
+      "shelter referral"
+    ],
+    "verified_from": "https://www.nyc.gov/assets/dhs/downloads/pdf/intake_drop_in_centers_flyer.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "From DHS pocket-guide flyer (undated); phone/hours not listed. Confirm via 311 before printing."
+  },
+  {
+    "name": "The Gathering Place Drop-In Center",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "City-contracted 24-hour drop-in center for adults experiencing street homelessness, with a place to rest, meals and connections to shelter.",
+    "url": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "phone": null,
+    "address": "2402 Atlantic Avenue, Brooklyn, NY",
+    "services": [
+      "drop-in",
+      "24/7",
+      "shelter referral"
+    ],
+    "verified_from": "https://www.nyc.gov/assets/dhs/downloads/pdf/intake_drop_in_centers_flyer.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "From DHS pocket-guide flyer (undated); phone/hours not listed. Confirm via 311 before printing."
+  },
+  {
+    "name": "Project Hospitality Drop-In Center",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Staten Island"
+    ],
+    "description": "City-contracted 24-hour drop-in center for adults experiencing street homelessness, with a place to rest, meals and connections to shelter.",
+    "url": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "phone": null,
+    "address": "25 Central Avenue, Staten Island, NY",
+    "services": [
+      "drop-in",
+      "24/7",
+      "shelter referral"
+    ],
+    "verified_from": "https://www.nyc.gov/assets/dhs/downloads/pdf/intake_drop_in_centers_flyer.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "From DHS pocket-guide flyer (undated); phone/hours not listed. Confirm via 311 before printing."
+  },
+  {
+    "name": "NYC DHS Shelter Intake Centers",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Where to go to apply for city shelter: men (30th St, Manhattan), women (Franklin Shelter, Bronx; HELP Women's Center, Brooklyn), adult families (AFIC) and families with children (PATH, Bronx).",
+    "url": "https://www.nyc.gov/site/dhs/outreach/street-outreach.page",
+    "phone": "311",
+    "address": null,
+    "services": [
+      "shelter",
+      "intake"
+    ],
+    "verified_from": "https://www.nyc.gov/assets/dhs/downloads/pdf/intake_drop_in_centers_flyer.pdf",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Addresses: 400-430 E 30th St (men); 1122 Franklin Ave, Bronx & 116 Williams Ave, Brooklyn (women); 400-430 E 29th St (AFIC); 151 E 151st St, Bronx (PATH). Flyer undated."
+  },
+  {
+    "name": "Coalition for the Homeless",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Advocacy and direct services org offering crisis intervention, shelter access help, eviction prevention and the Grand Central Food Program.",
+    "url": "https://www.coalitionforthehomeless.org/get-help/",
+    "phone": "212-776-2000",
+    "address": "129 Fulton Street, New York, NY 10038",
+    "services": [
+      "housing",
+      "shelter help",
+      "food",
+      "legal",
+      "crisis intervention"
+    ],
+    "verified_from": "https://www.coalitionforthehomeless.org/get-help/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Crisis hotline 888-358-2384."
+  },
+  {
+    "name": "Project Hospitality",
+    "category": "housing-shelter",
+    "boroughs": [
+      "Staten Island"
+    ],
+    "description": "Staten Island nonprofit offering shelter, food pantries and soup kitchens, HIV services, recovery support and care management.",
+    "url": "https://www.projecthospitality.org",
+    "phone": "718-448-1544",
+    "address": "100 Park Avenue, Staten Island, NY 10302",
+    "services": [
+      "shelter",
+      "food",
+      "HIV",
+      "recovery",
+      "case management"
+    ],
+    "verified_from": "https://www.projecthospitality.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Food Bank For NYC – Find Food",
+    "category": "food-benefits",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Map of about 800 food pantries, soup kitchens and mobile pantries, plus SNAP application help.",
+    "url": "https://www.foodbanknyc.org/get-help/",
+    "phone": null,
+    "address": null,
+    "services": [
+      "food",
+      "SNAP help",
+      "map"
+    ],
+    "verified_from": "https://www.foodbanknyc.org/get-help/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Holy Apostles Soup Kitchen",
+    "category": "food-benefits",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Hot meals to-go and a food pantry; everyone welcome, no questions asked.",
+    "url": "https://holyapostlesnyc.org",
+    "phone": "212-924-0167",
+    "address": "296 9th Avenue, New York, NY 10001",
+    "services": [
+      "food"
+    ],
+    "verified_from": "https://holyapostlesnyc.org/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Meals Mon-Fri 10:30am-12:30pm; pantry Tue-Thu."
+  },
+  {
+    "name": "ACCESS NYC",
+    "category": "food-benefits",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "City screening tool to check eligibility for 30+ benefits like SNAP, cash assistance, Medicaid and housing help, in 11 languages.",
+    "url": "https://access.nyc.gov",
+    "phone": null,
+    "address": null,
+    "services": [
+      "benefits",
+      "SNAP",
+      "Medicaid",
+      "Spanish"
+    ],
+    "verified_from": "https://access.nyc.gov",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "IDNYC",
+    "category": "food-benefits",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Free municipal photo ID for NYC residents regardless of immigration status; people without an address can pick up their card in person.",
+    "url": "https://www.nyc.gov/site/idnyc/index.page",
+    "phone": "311",
+    "address": null,
+    "services": [
+      "ID",
+      "no address OK"
+    ],
+    "verified_from": "https://www.nyc.gov/site/idnyc/card/how-to-apply.page",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Cost not stated on fetched page (historically free). Walk-ins at select centers by day."
+  },
+  {
+    "name": "The Bronx Defenders",
+    "category": "legal",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "Holistic public defender office for Bronx residents covering criminal, family, immigration and civil cases.",
+    "url": "https://www.bronxdefenders.org",
+    "phone": "718-838-7878",
+    "address": "360 East 161st Street, Bronx, NY 10451",
+    "services": [
+      "legal",
+      "criminal defense",
+      "immigration",
+      "family"
+    ],
+    "verified_from": "https://www.bronxdefenders.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Brooklyn Defender Services",
+    "category": "legal",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Free public defense for Brooklyn residents in criminal, family, immigration and civil matters, with social work support.",
+    "url": "https://bds.org",
+    "phone": "718-254-0700",
+    "address": "177 Livingston Street, 7th Floor, Brooklyn, NY 11201",
+    "services": [
+      "legal",
+      "criminal defense",
+      "immigration",
+      "family",
+      "social work"
+    ],
+    "verified_from": "https://bds.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "The Legal Aid Society",
+    "category": "legal",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Free legal help for low-income New Yorkers across all five boroughs, including housing, benefits, immigration and criminal defense.",
+    "url": "https://legalaidnyc.org/get-help/",
+    "phone": "212-577-3300",
+    "address": null,
+    "services": [
+      "legal",
+      "housing",
+      "benefits",
+      "immigration",
+      "criminal defense",
+      "Spanish"
+    ],
+    "verified_from": "https://legalaidnyc.org/get-help/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Neighborhood Defender Service of Harlem",
+    "category": "legal",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Community-based defenders offering criminal and civil representation, including help before an arrest.",
+    "url": "https://www.ndsny.org",
+    "phone": "212-876-5500",
+    "address": "317 Lenox Avenue, 10th Floor, New York, NY 10027",
+    "services": [
+      "legal",
+      "criminal defense",
+      "pre-arrest"
+    ],
+    "verified_from": "https://www.ndsny.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Sex Workers Project (Urban Justice Center)",
+    "category": "legal",
+    "boroughs": [
+      "Citywide"
+    ],
+    "description": "Immigration legal services and support for sex workers and trafficking survivors; call the helpline (no walk-ins).",
+    "url": "https://swp.urbanjustice.org",
+    "phone": "646-602-5617",
+    "address": "40 Rector Street, 9th Floor, New York, NY 10006",
+    "services": [
+      "legal",
+      "immigration",
+      "sex workers"
+    ],
+    "verified_from": "https://swp.urbanjustice.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Current focus is immigration legal services."
+  },
+  {
+    "name": "NYS 911 Good Samaritan Law",
+    "category": "legal",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "Know-your-rights info: calling 911 for an overdose protects you and the person overdosing from most possession charges.",
+    "url": "https://www.health.ny.gov/diseases/aids/general/opioid_overdose_prevention/good_samaritan_law.htm",
+    "phone": "800-692-8528",
+    "address": null,
+    "services": [
+      "know your rights",
+      "overdose"
+    ],
+    "verified_from": "https://www.health.ny.gov/diseases/aids/general/opioid_overdose_prevention/good_samaritan_law.htm",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Does not cover sale charges, A1 possession, open warrants or parole/probation violations."
+  },
+  {
+    "name": "Ali Forney Center",
+    "category": "community-specific",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Drop-in center and housing for LGBTQ+ young people experiencing homelessness.",
+    "url": "https://www.aliforneycenter.org",
+    "phone": "212-206-0574",
+    "address": "307 West 38th Street, 3rd Floor, New York, NY 10018",
+    "services": [
+      "LGBTQ+",
+      "youth",
+      "drop-in",
+      "housing",
+      "food"
+    ],
+    "verified_from": "https://www.aliforneycenter.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Site says 24/7 drop-in but lists Mon-Fri 8am-8pm, Sat-Sun 10am-6pm; confirm."
+  },
+  {
+    "name": "Covenant House New York",
+    "category": "community-specific",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Shelter and services for young people facing homelessness.",
+    "url": "https://ny.covenanthouse.org",
+    "phone": "212-613-0300",
+    "address": "460 West 41st Street, New York, NY 10036",
+    "services": [
+      "youth",
+      "shelter",
+      "housing"
+    ],
+    "verified_from": "https://ny.covenanthouse.org/about/about-us/journey-of-covenant-house/",
+    "verified_on": "2026-10-07",
+    "confidence": "medium",
+    "notes": "Main site rate-limited; address/phone from ny.covenanthouse.org footer via search. Age range not confirmed this session."
+  },
+  {
+    "name": "Safe Horizon Streetwork Project",
+    "category": "community-specific",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Harm reduction drop-in centers, overnight shelter, syringe access and outreach for homeless and street-involved youth ages 16-25.",
+    "url": "https://www.safehorizon.org/programs/streetwork-project/",
+    "phone": "646-602-6404",
+    "address": null,
+    "services": [
+      "youth",
+      "drop-in",
+      "syringes",
+      "shelter",
+      "outreach",
+      "HIV"
+    ],
+    "verified_from": "https://www.safehorizon.org/programs/streetwork-project/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Drop-ins: 209 W 125th St, 2nd Fl (Harlem) and 33 Essex St (LES) per NYS directory. Ages 16-25."
+  },
+  {
+    "name": "The Door",
+    "category": "community-specific",
+    "boroughs": [
+      "Manhattan",
+      "Bronx"
+    ],
+    "description": "Free health, legal, food, housing and counseling services for young people ages 12-24.",
+    "url": "https://door.org",
+    "phone": "212-941-9090",
+    "address": "555 Broome Street, New York, NY 10013",
+    "services": [
+      "youth",
+      "health",
+      "legal",
+      "food",
+      "drop-in",
+      "housing"
+    ],
+    "verified_from": "https://door.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Also runs a Runaway & Homeless Youth drop-in in the Bronx."
+  },
+  {
+    "name": "Hetrick-Martin Institute",
+    "category": "community-specific",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Free affirming services for LGBTQIA+ young people, including mental health care, drop-in and crisis support.",
+    "url": "https://hmi.org",
+    "phone": "212-674-2400",
+    "address": null,
+    "services": [
+      "LGBTQ+",
+      "youth",
+      "mental health",
+      "drop-in"
+    ],
+    "verified_from": "https://hmi.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "Destination Tomorrow",
+    "category": "community-specific",
+    "boroughs": [
+      "Bronx"
+    ],
+    "description": "Bronx LGBTQ+ center offering health, youth and career programs and transitional housing for trans New Yorkers.",
+    "url": "https://destinationtomorrow.org",
+    "phone": "646-723-3325",
+    "address": "452 East 149th Street, 3rd Floor, Bronx, NY 10455",
+    "services": [
+      "LGBTQ+",
+      "trans",
+      "housing",
+      "youth"
+    ],
+    "verified_from": "https://destinationtomorrow.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Walk-in Mon-Fri 10am-6pm."
+  },
+  {
+    "name": "Red Canary Song",
+    "category": "community-specific",
+    "boroughs": [
+      "Queens"
+    ],
+    "description": "Grassroots collective organizing with Asian migrant massage workers and sex workers, based in Flushing.",
+    "url": "https://redcanarysong.net",
+    "phone": null,
+    "address": null,
+    "services": [
+      "sex workers",
+      "mutual aid",
+      "Asian diaspora",
+      "advocacy"
+    ],
+    "verified_from": "https://redcanarysong.net",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "No public phone/address listed."
+  },
+  {
+    "name": "Women's Prison Association",
+    "category": "community-specific",
+    "boroughs": [
+      "Manhattan"
+    ],
+    "description": "Support for women and gender-diverse people affected by incarceration, including alternatives to incarceration, housing and harm reduction-based care.",
+    "url": "https://www.wpaonline.org",
+    "phone": "646-292-7710",
+    "address": "347 East 10th Street, New York, NY 10009",
+    "services": [
+      "women",
+      "reentry",
+      "housing",
+      "legal"
+    ],
+    "verified_from": "https://www.wpaonline.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "name": "National Harm Reduction Coalition",
+    "category": "training-advocacy",
+    "boroughs": [
+      "National"
+    ],
+    "description": "National harm reduction organization headquartered in NYC offering trainings, resources and naloxone/syringe locators.",
+    "url": "https://harmreduction.org",
+    "phone": null,
+    "address": null,
+    "services": [
+      "training",
+      "advocacy",
+      "naloxone finder"
+    ],
+    "verified_from": "https://harmreduction.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Mailing address 243 5th Ave #529, New York, NY 10016."
+  },
+  {
+    "name": "NHRC New York Training Institute",
+    "category": "training-advocacy",
+    "boroughs": [
+      "Citywide",
+      "Statewide"
+    ],
+    "description": "Free and low-cost harm reduction trainings and webinars for NY organizations and individuals, in English and Spanish.",
+    "url": "https://harmreduction.org/our-work/action/nyc/",
+    "phone": null,
+    "address": null,
+    "services": [
+      "training",
+      "Spanish"
+    ],
+    "verified_from": "https://harmreduction.org/our-work/action/nyc/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "This appears to be what is sometimes called the NYC 'Harm Reduction Training Institute'."
+  },
+  {
+    "name": "New York State Harm Reduction Association (NYSHRA)",
+    "category": "training-advocacy",
+    "boroughs": [
+      "Statewide"
+    ],
+    "description": "Statewide association for harm reduction advocacy, training, and an annual conference.",
+    "url": "https://nyshra.org",
+    "phone": null,
+    "address": null,
+    "services": [
+      "advocacy",
+      "training",
+      "conference"
+    ],
+    "verified_from": "https://nyshra.org",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": "Based in Binghamton."
+  },
+  {
+    "name": "Drug Policy Alliance",
+    "category": "training-advocacy",
+    "boroughs": [
+      "National"
+    ],
+    "description": "National drug policy reform organization headquartered in New York City.",
+    "url": "https://drugpolicy.org",
+    "phone": "212-613-8020",
+    "address": null,
+    "services": [
+      "advocacy",
+      "policy"
+    ],
+    "verified_from": "https://drugpolicy.org/about-us/contact/",
+    "verified_on": "2026-10-07",
+    "confidence": "high",
+    "notes": null
+  }
+]
