@@ -227,35 +227,17 @@
     "notes": "NYS hours: Mon-Fri 9:30am-3pm; Bronx van on Third Ave between E Tremont Ave & Cross-Bronx Expwy Mon/Thu/Fri. Main org line 844-464-2735; HQ 306 Malcolm X Blvd."
   },
   {
-    "name": "Housing Works – Brooklyn Harm Reduction (Pitkin Ave)",
-    "category": "syringe-services",
-    "boroughs": [
-      "Brooklyn"
-    ],
-    "description": "Housing Works syringe service site in East New York.",
-    "url": "https://www.housingworks.org",
-    "phone": "212-677-7999",
-    "address": "2640 Pitkin Avenue, Brooklyn, NY",
-    "services": [
-      "syringes",
-      "naloxone"
-    ],
-    "verified_from": "https://health.ny.gov/diseases/aids/consumers/prevention/needles_syringes/docs/sep_hours_sites.pdf",
-    "verified_on": "2026-10-07",
-    "confidence": "high",
-    "notes": "NYS directory: Tue & Thu 9am-5pm. Same address hosts VOCAL-NY's 24/7 vending machine."
-  },
-  {
-    "name": "Housing Works – Keith D. Cylar Community Health Center",
+    "name": "Housing Works Cylar House (Keith D. Cylar Community Health Center)",
     "category": "syringe-services",
     "boroughs": [
       "Manhattan"
     ],
-    "description": "East Village health center offering syringe services, primary care, and on-site drug checking.",
+    "description": "East Village health center at 9th St & Ave D with 24/7 syringe exchange, primary care and on-site drug checking.",
     "url": "https://www.housingworks.org/locations/keith-d-cylar-community-health-center",
     "phone": "212-677-7999",
     "address": "743 East 9th Street, New York, NY",
     "services": [
+      "24/7",
       "syringes",
       "naloxone",
       "drug checking",
@@ -264,9 +246,9 @@
       "HCV"
     ],
     "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/drug-checking.page",
-    "verified_on": "2026-10-07",
+    "verified_on": "2026-10-12",
     "confidence": "high",
-    "notes": "NYS SSP hours Mon-Fri 9:30am-6pm. NYC drug checking Tuesdays (646-773-3678)."
+    "notes": "Syringe exchange 24/7 per outreach worker feedback (Oct 2026). NYC drug checking on Tuesdays (646-773-3678). Clinic services keep daytime hours."
   },
   {
     "name": "Positive Health Project (Housing Works) – Ginny Shubert Center for Harm Reduction",
@@ -274,11 +256,12 @@
     "boroughs": [
       "Manhattan"
     ],
-    "description": "Midtown harm reduction program offering syringe exchange, overdose prevention, HIV/HCV testing, counseling, and meth harm reduction (ReCharge).",
+    "description": "Midtown harm reduction program on W 37th St with 24/7 syringe exchange, overdose prevention, HIV/HCV testing, counseling and meth harm reduction (ReCharge).",
     "url": "https://www.housingworks.org/locations/positive-health-project",
     "phone": "212-465-8304",
     "address": "301 West 37th Street, New York, NY",
     "services": [
+      "24/7",
       "syringes",
       "naloxone",
       "HIV testing",
@@ -287,9 +270,9 @@
       "stimulant harm reduction"
     ],
     "verified_from": "https://www.housingworks.org/locations/the-ginny-shubert-center-for-harm-reduction",
-    "verified_on": "2026-10-07",
+    "verified_on": "2026-10-12",
     "confidence": "high",
-    "notes": "Positive Health Project is now part of Housing Works (website), though NYS still lists it as 'Positive Health Project, Inc.'. Floor differs (NYS: 2nd fl; Housing Works: 3rd fl). Housing Works lists Mon-Fri 9am-5pm; NYS lists Mon-Fri 10am-8pm, Sat 10am-6pm. Confirm hours."
+    "notes": "Syringe exchange 24/7 per outreach worker feedback (Oct 2026). Counseling and testing keep daytime hours; call to confirm."
   },
   {
     "name": "Bellevue Hospital – Street Health Outreach",
@@ -1688,5 +1671,238 @@
     "verified_on": "2026-10-07",
     "confidence": "high",
     "notes": null
+  },
+  {
+    "name": "Housing Works East New York (Pitkin Ave)",
+    "category": "syringe-services",
+    "boroughs": [
+      "Brooklyn"
+    ],
+    "description": "Harm reduction health center in East New York: naloxone, test strips, buprenorphine (all forms), therapy, psychiatry, primary care, HIV and hep C testing, case management and housing support. Not a full syringe exchange.",
+    "url": "https://www.housingworks.org",
+    "phone": "212-677-7999",
+    "address": "2640 Pitkin Avenue, Brooklyn, NY",
+    "services": [
+      "syringes (Tuesdays)",
+      "naloxone",
+      "fentanyl test strips",
+      "buprenorphine",
+      "MAT",
+      "therapy",
+      "psychiatry",
+      "primary care",
+      "HIV testing",
+      "HCV",
+      "case management",
+      "housing"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026",
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": "Syringes on Tuesdays only. VOCAL-NY runs a 24/7 vending machine at the same address."
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": "212-785-6690",
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": "Ask for a Safe Haven placement (lower-barrier than shelter). Covers street homeless only.",
+    "name": "Downtown Goddard Outreach (Manhattan below 23rd St)",
+    "category": "housing-shelter",
+    "description": "Street outreach team for people living outside in Manhattan below 23rd Street; can connect you to Safe Haven beds instead of shelter.",
+    "url": "https://goddard.org/programs/fighting-homelessness/homelessoutreach/",
+    "services": [
+      "street outreach",
+      "Safe Haven",
+      "housing"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": "800-871-8910",
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": "Ask for a Safe Haven placement (lower-barrier than shelter). Covers street homeless only.",
+    "name": "Breaking Ground Outreach (Manhattan 23rd–59th St)",
+    "category": "housing-shelter",
+    "description": "Street outreach team for people living outside in Manhattan from 23rd to 59th Street; can connect you to Safe Haven beds instead of shelter.",
+    "url": "https://www.breakingground.org/what-we-do/street-to-home",
+    "services": [
+      "street outreach",
+      "Safe Haven",
+      "housing"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": "212-222-5490",
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": "Ask for a Safe Haven placement (lower-barrier than shelter). Covers street homeless only.",
+    "name": "Uptown Goddard Outreach (59th–110th St West, 59th–96th St East)",
+    "category": "housing-shelter",
+    "description": "Street outreach team for people living outside on the Upper West Side (59th–110th St) and Upper East Side (59th–96th St); can connect you to Safe Haven beds.",
+    "url": "https://goddard.org/programs/fighting-homelessness/homelessoutreach/",
+    "services": [
+      "street outreach",
+      "Safe Haven",
+      "housing"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": "212-801-3300",
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "high",
+    "notes": "Ask for a Safe Haven placement (lower-barrier than shelter). Covers street homeless only. 212-801-3300 is the CUCS main line; ask for street outreach.",
+    "name": "CUCS Outreach (north of W 110th St and E 96th St)",
+    "category": "housing-shelter",
+    "description": "Street outreach for people living outside in Harlem, Washington Heights and Inwood, run by the Center for Urban Community Services, which leads the Manhattan Outreach Consortium.",
+    "url": "https://www.cucs.org",
+    "services": [
+      "street outreach",
+      "Safe Haven",
+      "housing"
+    ],
+    "verified_from": "https://www.cucs.org"
+  },
+  {
+    "boroughs": [
+      "Citywide"
+    ],
+    "phone": "311",
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": "Call 311 and say \"ActionNYC\" to get connected.",
+    "name": "ActionNYC",
+    "category": "legal",
+    "description": "Free, safe immigration legal help from the city, in your language, regardless of status.",
+    "url": "https://www.nyc.gov/site/immigrants/help/legal-services/actionnyc.page",
+    "services": [
+      "immigration",
+      "legal",
+      "multilingual"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Citywide"
+    ],
+    "phone": null,
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": null,
+    "name": "Urban Justice Center",
+    "category": "legal",
+    "description": "Legal services and advocacy for people facing homelessness, mental health issues, immigration problems and more; home of the Sex Workers Project.",
+    "url": "https://www.urbanjustice.org",
+    "services": [
+      "legal",
+      "housing",
+      "immigration",
+      "mental health"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Citywide"
+    ],
+    "phone": null,
+    "address": null,
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": null,
+    "name": "New York Legal Assistance Group (NYLAG)",
+    "category": "legal",
+    "description": "Free civil legal help with housing, public benefits, immigration, debt and more for low-income New Yorkers.",
+    "url": "https://nylag.org",
+    "services": [
+      "legal",
+      "housing",
+      "benefits",
+      "immigration"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": "800-269-3791",
+    "address": "227 Bowery, New York, NY",
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": "Phone is 1-800-BOWERY-1 from bowery.org.",
+    "name": "The Bowery Mission",
+    "category": "food-benefits",
+    "description": "Free meals three times a day on the Bowery, plus showers, clothing and shelter programs.",
+    "url": "https://www.bowery.org",
+    "services": [
+      "food",
+      "3 meals a day",
+      "showers",
+      "clothing"
+    ],
+    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": null,
+    "address": "Tompkins Square Park, E 7th St & Avenue A, New York, NY",
+    "verified_on": "2026-10-12",
+    "confidence": "medium",
+    "notes": null,
+    "name": "Lower East Side Food Not Bombs",
+    "category": "food-benefits",
+    "description": "Free vegan meals every Sunday at 4:30pm in the southwest corner of Tompkins Square Park (E 7th St & Ave A).",
+    "url": "https://foodnotbombs.net/new_site/",
+    "services": [
+      "food",
+      "Sundays",
+      "vegan"
+    ],
+    "verified_from": "https://resources.mutualaid.nyc/organizations/1238247201713279"
+  },
+  {
+    "boroughs": [
+      "Manhattan"
+    ],
+    "phone": "332-243-1600",
+    "address": "45 Rivington Street, New York, NY",
+    "verified_on": "2026-10-12",
+    "confidence": "high",
+    "notes": "Recommended by outreach workers for detox and rehab. Call to confirm which programs have openings.",
+    "name": "Mount Sinai Behavioral Health Center",
+    "category": "treatment",
+    "description": "Lower East Side center for mental health and substance use care, with inpatient crisis beds and intensive outpatient programs.",
+    "url": "https://www.mountsinai.org/locations/behavioral-health-center",
+    "services": [
+      "detox",
+      "rehab",
+      "outpatient",
+      "mental health"
+    ],
+    "verified_from": "https://www.mountsinai.org/locations/behavioral-health-center"
   }
 ]
