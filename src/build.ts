@@ -74,7 +74,10 @@ const byCategory = Object.entries(CATEGORIES)
   }))
   .filter((c) => c.items.length);
 
-const lastChecked = resources.map((r) => r.verified_on).sort().at(-1);
+const lastChecked = resources.map((r) => r.verified_on).sort().at(-1)!;
+
+/** Absolute URL for a file in dist/. index.html maps to its directory, e.g. "/". */
+const pageUrl = (file: string) => new URL(file.replace(/(^|\/)index\.html$/, "$1"), site.url + "/").href;
 
 const html = `<!doctype html>
 <html lang="en">
@@ -83,9 +86,22 @@ const html = `<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(site.title)}</title>
 <meta name="description" content="${esc(site.description)}">
+<link rel="canonical" href="${pageUrl("index.html")}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Harm Reduction NYC">
+<meta property="og:locale" content="en_US">
 <meta property="og:title" content="${esc(site.title)}">
 <meta property="og:description" content="${esc(site.description)}">
-<meta property="og:url" content="${site.url}">
+<meta property="og:url" content="${pageUrl("index.html")}">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">${JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Harm Reduction NYC",
+  url: pageUrl("index.html"),
+  description: site.description,
+  publisher: { "@type": "Organization", name: site.orgName, url: site.orgUrl },
+}).replace(/</g, "\\u003c")}</script>
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/styles.css">
@@ -153,6 +169,23 @@ const html = `<!doctype html>
 rmSync(dist, { recursive: true, force: true });
 mkdirSync(dist, { recursive: true });
 cpSync(new URL("public/", root), dist, { recursive: true });
-writeFileSync(new URL("index.html", dist), html);
+
+// Every HTML page the build emits. The sitemap is generated from this list, so a new page
+// only needs adding here to be indexed.
+const pages: { file: string; html: string; lastmod: string }[] = [
+  { file: "index.html", html, lastmod: lastChecked },
+];
+for (const p of pages) writeFileSync(new URL(p.file, dist), p.html);
+
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${pages.map((p) => `  <url><loc>${esc(pageUrl(p.file))}</loc><lastmod>${p.lastmod}</lastmod></url>`).join("\n")}
+</urlset>
+`;
+writeFileSync(new URL("sitemap.xml", dist), sitemap);
+writeFileSync(new URL("robots.txt", dist), `User-agent: *\nAllow: /\n\nSitemap: ${pageUrl("sitemap.xml")}\n`);
+
 writeFileSync(new URL("resources.json", dist), JSON.stringify(resources, null, 2));
-console.log(`Built dist/ with ${resources.length} resources in ${byCategory.length} categories`);
+console.log(
+  `Built dist/ with ${resources.length} resources in ${byCategory.length} categories, ${pages.length} page(s) in sitemap.xml`,
+);
