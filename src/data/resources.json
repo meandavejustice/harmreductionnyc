@@ -1812,17 +1812,17 @@
     "address": null,
     "verified_on": "2026-11-28",
     "confidence": "high",
-    "notes": "Hotline 1-800-354-0365, Mon to Fri 9 a.m. to 6 p.m., or call 311 and say \"ActionNYC\". Appointments required.",
-    "name": "ActionNYC",
+    "notes": "MOIA Immigration Legal Support Hotline 1-800-354-0365, or call 311 and ask for \"immigration legal support\". Some city-funded providers have an income limit (200% of the federal poverty level).",
+    "name": "MOIA Immigration Legal Support (formerly ActionNYC)",
     "category": "legal",
-    "description": "Free, safe immigration legal help from the city, in your language, regardless of status.",
-    "url": "https://www1.nyc.gov/site/actionnyc/help/legal-services.page",
+    "description": "Free, safe immigration legal help from the city at 20+ community legal support centers, in your language, regardless of status. Help with citizenship, green cards, DACA, TPS and more.",
+    "url": "https://access.nyc.gov/programs/moia-immigration-legal-support-centers/",
     "services": [
       "immigration",
       "legal",
       "multilingual"
     ],
-    "verified_from": "https://www1.nyc.gov/site/actionnyc/help/legal-services.page"
+    "verified_from": "https://access.nyc.gov/programs/moia-immigration-legal-support-centers/"
   },
   {
     "boroughs": [
