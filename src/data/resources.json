@@ -1702,6 +1702,29 @@
     "notes": "Syringes on Tuesdays only. VOCAL-NY runs a 24/7 vending machine at the same address."
   },
   {
+    "name": "NYC Community Syringe Redemption Program",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan",
+      "Bronx",
+      "Brooklyn",
+      "Queens"
+    ],
+    "description": "Health Department program that pays 20 cents per used syringe returned to a white van (minimum 5, maximum 50 per day, up to $10 a day). Enroll in person at any van site; participants get training on safe syringe handling and naloxone.",
+    "url": "https://www.nyc.gov/site/doh/health/health-topics/community-syringe-redemption-program.page",
+    "phone": null,
+    "address": null,
+    "services": [
+      "syringe disposal",
+      "cash for syringes",
+      "naloxone training"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/community-syringe-redemption-program.page",
+    "verified_on": "2026-11-28",
+    "confidence": "high",
+    "notes": "Van sites: Rufus King Park (Queens); Borinquen Place under the BQE (Brooklyn); Highbridge Park, W 180th St & Amsterdam Ave (Manhattan); St. Mary's Park, Trinity Ave & E 147th St; Echo Park, 321 E Tremont Ave; The Hub, 517 Courtlandt Ave; Walter Gladwin Park along the Cross Bronx Expy; Kingsbridge Underpass, 2510 Valentine Ave (Bronx). Most stops are early morning (5 to 11 a.m.) and days differ by site; check the city page for the current schedule. Questions: harmreductionunit@health.nyc.gov."
+  },
+  {
     "boroughs": [
       "Manhattan"
     ],
