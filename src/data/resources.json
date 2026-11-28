@@ -1702,6 +1702,29 @@
     "notes": "Syringes on Tuesdays only. VOCAL-NY runs a 24/7 vending machine at the same address."
   },
   {
+    "name": "NYC Community Syringe Redemption Program",
+    "category": "syringe-services",
+    "boroughs": [
+      "Manhattan",
+      "Bronx",
+      "Brooklyn",
+      "Queens"
+    ],
+    "description": "Health Department program that pays 20 cents per used syringe returned to a white van (minimum 5, maximum 50 per day, up to $10 a day). Enroll in person at any van site; participants get training on safe syringe handling and naloxone.",
+    "url": "https://www.nyc.gov/site/doh/health/health-topics/community-syringe-redemption-program.page",
+    "phone": null,
+    "address": null,
+    "services": [
+      "syringe disposal",
+      "cash for syringes",
+      "naloxone training"
+    ],
+    "verified_from": "https://www.nyc.gov/site/doh/health/health-topics/community-syringe-redemption-program.page",
+    "verified_on": "2026-11-28",
+    "confidence": "high",
+    "notes": "Van sites: Rufus King Park (Queens); Borinquen Place under the BQE (Brooklyn); Highbridge Park, W 180th St & Amsterdam Ave (Manhattan); St. Mary's Park, Trinity Ave & E 147th St; Echo Park, 321 E Tremont Ave; The Hub, 517 Courtlandt Ave; Walter Gladwin Park along the Cross Bronx Expy; Kingsbridge Underpass, 2510 Valentine Ave (Bronx). Most stops are early morning (5 to 11 a.m.) and days differ by site; check the city page for the current schedule. Questions: harmreductionunit@health.nyc.gov."
+  },
+  {
     "boroughs": [
       "Manhattan"
     ],
@@ -1785,21 +1808,21 @@
     "boroughs": [
       "Citywide"
     ],
-    "phone": "311",
+    "phone": "1-800-354-0365",
     "address": null,
-    "verified_on": "2026-10-12",
-    "confidence": "medium",
-    "notes": "Call 311 and say \"ActionNYC\" to get connected.",
-    "name": "ActionNYC",
+    "verified_on": "2026-11-28",
+    "confidence": "high",
+    "notes": "MOIA Immigration Legal Support Hotline 1-800-354-0365, or call 311 and ask for \"immigration legal support\". Some city-funded providers have an income limit (200% of the federal poverty level).",
+    "name": "MOIA Immigration Legal Support (formerly ActionNYC)",
     "category": "legal",
-    "description": "Free, safe immigration legal help from the city, in your language, regardless of status.",
-    "url": "https://www.nyc.gov/site/immigrants/help/legal-services/actionnyc.page",
+    "description": "Free, safe immigration legal help from the city at 20+ community legal support centers, in your language, regardless of status. Help with citizenship, green cards, DACA, TPS and more.",
+    "url": "https://access.nyc.gov/programs/moia-immigration-legal-support-centers/",
     "services": [
       "immigration",
       "legal",
       "multilingual"
     ],
-    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+    "verified_from": "https://access.nyc.gov/programs/moia-immigration-legal-support-centers/"
   },
   {
     "boroughs": [
