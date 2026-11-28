@@ -1808,21 +1808,21 @@
     "boroughs": [
       "Citywide"
     ],
-    "phone": "311",
+    "phone": "1-800-354-0365",
     "address": null,
-    "verified_on": "2026-10-12",
-    "confidence": "medium",
-    "notes": "Call 311 and say \"ActionNYC\" to get connected.",
+    "verified_on": "2026-11-28",
+    "confidence": "high",
+    "notes": "Hotline 1-800-354-0365, Mon to Fri 9 a.m. to 6 p.m., or call 311 and say \"ActionNYC\". Appointments required.",
     "name": "ActionNYC",
     "category": "legal",
     "description": "Free, safe immigration legal help from the city, in your language, regardless of status.",
-    "url": "https://www.nyc.gov/site/immigrants/help/legal-services/actionnyc.page",
+    "url": "https://www1.nyc.gov/site/actionnyc/help/legal-services.page",
     "services": [
       "immigration",
       "legal",
       "multilingual"
     ],
-    "verified_from": "Outreach worker feedback to outreach@dontforgetthestreets.com, Oct 2026"
+    "verified_from": "https://www1.nyc.gov/site/actionnyc/help/legal-services.page"
   },
   {
     "boroughs": [
